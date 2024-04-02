@@ -29,7 +29,7 @@ boxes.forEach((box) => {
     // console.log("box was clicked");
     if (turn0) {
       box.innerText = "0";
-      box.style.color = "blue";
+      
       turn0 = false;
      
     } else {
